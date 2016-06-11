@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="64cd" name="c&#257;o">
+<source name="english">to hold , to drill , to exercise , to act , to do , to take in hand , to keep , to manage</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>c&#257;o</pronunciation>
+<characters style="simplified">操</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>c&#257;o</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/64cd.gif" />
+<audio src="resources/audio/64cd.wav" />
+</url>
+</word>
+</dictionary>

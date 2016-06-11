@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="4fee" name="xi&#363;">
+<source name="english">to decorate , to embellish , to repair , to build , to study , to write , to cultivate</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>xi&#363;</pronunciation>
+<characters style="simplified">修</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>xi&#363;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/4fee.gif" />
+<audio src="resources/audio/4fee.wav" />
+</url>
+</word>
+</dictionary>

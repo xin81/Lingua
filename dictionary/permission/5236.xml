@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5236" name="zh&#236;">
+<source name="english">system , to make , to manufacture , to control , to regulate</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>zh&#236;</pronunciation>
+<characters style="simplified">制</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>zh&#236;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5236.gif" />
+<audio src="resources/audio/5236.wav" />
+</url>
+</word>
+</dictionary>

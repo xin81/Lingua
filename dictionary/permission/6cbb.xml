@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6cbb" name="zh&#236;">
+<source name="english">to rule , to govern , to manage , to control , to harness (a river) , cure , treatment , to heal</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>zh&#236;</pronunciation>
+<characters style="simplified">治</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>zh&#236;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6cbb.gif" />
+<audio src="resources/audio/6cbb.wav" />
+</url>
+</word>
+</dictionary>

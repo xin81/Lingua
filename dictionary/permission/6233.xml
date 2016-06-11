@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6233" name="chu&#333;">
+<source name="english">poke , pierce , prick , wooden or rubber stamp or seal</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>chu&#333;</pronunciation>
+<characters style="simplified">戳</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>chu&#333;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6233.gif" />
+<audio src="resources/audio/6233.wav" />
+</url>
+</word>
+</dictionary>

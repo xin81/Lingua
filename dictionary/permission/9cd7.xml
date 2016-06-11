@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="9cd7" name="m&#225;n">
+<source name="english">eel , Anguilla lostoniensis</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>m&#225;n</pronunciation>
+<characters style="simplified">鳗</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>m&#225;n</pronunciation>
+<characters style="simplified">鰻</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/9cd7.gif" />
+<audio src="resources/audio/9cd7.wav" />
+</url>
+</word>
+</dictionary>

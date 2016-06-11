@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="817e" name="t&#233;ng">
+<source name="english">to soar , to gallop , to rise , to prance , to hover , to move out</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>t&#233;ng</pronunciation>
+<characters style="simplified">腾</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>t&#233;ng</pronunciation>
+<characters style="simplified">騰</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/817e.gif" />
+<audio src="resources/audio/817e.wav" />
+</url>
+</word>
+</dictionary>

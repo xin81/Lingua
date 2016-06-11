@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="95f5" name="m&#464;n">
+<source name="english">(surname) , feel compassion for</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>m&#464;n</pronunciation>
+<characters style="simplified">闵</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>m&#464;n</pronunciation>
+<characters style="simplified">閔</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/95f5.gif" />
+<audio src="resources/audio/95f5.wav" />
+</url>
+</word>
+</dictionary>

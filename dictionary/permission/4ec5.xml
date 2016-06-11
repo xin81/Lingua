@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="4ec5" name="j&#464;n">
+<source name="english">barely , only , merely</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>j&#464;n</pronunciation>
+<characters style="simplified">仅</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>j&#464;n</pronunciation>
+<characters style="simplified">僅</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/4ec5.gif" />
+<audio src="resources/audio/4ec5.wav" />
+</url>
+</word>
+</dictionary>

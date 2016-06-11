@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="8131" name="tu&#333;">
+<source name="english">to shed , to take off , to escape , to get away from</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>tu&#333;</pronunciation>
+<characters style="simplified">脱</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>tu&#333;</pronunciation>
+<characters style="simplified">脫</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/8131.gif" />
+<audio src="resources/audio/8131.wav" />
+</url>
+</word>
+</dictionary>

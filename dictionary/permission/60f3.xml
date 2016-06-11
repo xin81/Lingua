@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="60f3" name="xiang3">
+<source name="english">to think , to believe , to suppose , to wish , to want , to miss</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>xi&#462;ng</pronunciation>
+<characters style="simplified">想</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>xi&#462;ng</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/60f3.gif" />
+<audio src="resources/audio/60f3.wav" />
+</url>
+</word>
+</dictionary>

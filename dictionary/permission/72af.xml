@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="72af" name="f&#224;n">
+<source name="english">to violate , to offend</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>f&#224;n</pronunciation>
+<characters style="simplified">犯</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>f&#224;n</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/72af.gif" />
+<audio src="resources/audio/72af.wav" />
+</url>
+</word>
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5b99" name="zh&#242;u">
+<source name="english">universe</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>zh&#242;u</pronunciation>
+<characters style="simplified">宙</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>zh&#242;u</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5b99.gif" />
+<audio src="resources/audio/5b99.wav" />
+</url>
+</word>
+</dictionary>

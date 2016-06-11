@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="745c" name="y&#250;">
+<source name="english">excellence , luster of gems</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>y&#250;</pronunciation>
+<characters style="simplified">瑜</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>y&#250;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/745c.gif" />
+<audio src="resources/audio/745c.wav" />
+</url>
+</word>
+</dictionary>

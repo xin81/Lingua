@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="86fe" name="&#233;">
+<source name="english">moth</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>&#233;</pronunciation>
+<characters style="simplified">蛾</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>&#233;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/86fe.gif" />
+<audio src="resources/audio/86fe.wav" />
+</url>
+</word>
+</dictionary>

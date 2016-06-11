@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="90b9" name="z&#333;u">
+<source name="english">(surname) , name of district in Shandong</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>z&#333;u</pronunciation>
+<characters style="simplified">邹</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>z&#333;u</pronunciation>
+<characters style="simplified">鄒</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/90b9.gif" />
+<audio src="resources/audio/90b9.wav" />
+</url>
+</word>
+</dictionary>

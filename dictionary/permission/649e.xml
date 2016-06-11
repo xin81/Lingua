@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="649e" name="zhu&#224;ng">
+<source name="english">to hit , to strike , to meet by accident , to run into , to bump against , to bump into</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>zhu&#224;ng</pronunciation>
+<characters style="simplified">撞</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>zhu&#224;ng</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/649e.gif" />
+<audio src="resources/audio/649e.wav" />
+</url>
+</word>
+</dictionary>

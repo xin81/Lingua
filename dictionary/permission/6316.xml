@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6316" name="w&#257;">
+<source name="english">to dig , to excavate , to scoop out</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>w&#257;</pronunciation>
+<characters style="simplified">挖</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>w&#257;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6316.gif" />
+<audio src="resources/audio/6316.wav" />
+</url>
+</word>
+</dictionary>

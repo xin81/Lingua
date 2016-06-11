@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="8c8d" name="l&#237;">
+<source name="english">wild cat</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>l&#237;</pronunciation>
+<characters style="simplified">貍</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>l&#237;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/8c8d.gif" />
+<audio src="resources/audio/8c8d.wav" />
+</url>
+</word>
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="8eab" name="sh&#275;n">
+<source name="english">body , torso , person , life , status , pregnancy , (a measure word used for clothes) suit</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>sh&#275;n</pronunciation>
+<characters style="simplified">身</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>sh&#275;n</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/8eab.gif" />
+<audio src="resources/audio/8eab.wav" />
+</url>
+</word>
+</dictionary>

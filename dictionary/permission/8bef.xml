@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="8bef" name="w&#249;">
+<source name="english">mistake , error , to miss , to harm , to delay , to neglect</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>w&#249;</pronunciation>
+<characters style="simplified">误</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>w&#249;</pronunciation>
+<characters style="simplified">誤</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/8bef.gif" />
+<audio src="resources/audio/8bef.wav" />
+</url>
+</word>
+</dictionary>

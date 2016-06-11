@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="751f" name="sheng1">
+<source name="english">to be born , to give birth , life , to grow</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>sh&#275;ng</pronunciation>
+<characters style="simplified">生</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>sh&#275;ng</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/751f.gif" />
+<audio src="resources/audio/751f.wav" />
+</url>
+</word>
+</dictionary>

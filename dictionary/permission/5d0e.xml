@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5d0e" name="q&#237;">
+<source name="english">mountainous</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>q&#237;</pronunciation>
+<characters style="simplified">崎</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>q&#237;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5d0e.gif" />
+<audio src="resources/audio/5d0e.wav" />
+</url>
+</word>
+</dictionary>

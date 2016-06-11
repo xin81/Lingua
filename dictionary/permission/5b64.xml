@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5b64" name="g&#363;">
+<source name="english">lone , lonely</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>g&#363;</pronunciation>
+<characters style="simplified">孤</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>g&#363;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5b64.gif" />
+<audio src="resources/audio/5b64.wav" />
+</url>
+</word>
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="9e6d" name="l&#249;">
+<source name="english">heron</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>l&#249;</pronunciation>
+<characters style="simplified">鹭</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>l&#249;</pronunciation>
+<characters style="simplified">鷺</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/9e6d.gif" />
+<audio src="resources/audio/9e6d.wav" />
+</url>
+</word>
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="9634" name="y&#299;n">
+<source name="english">(of weather) overcast , Yin , feminine , moon , cloudy , negative (electric.) , shady</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>y&#299;n</pronunciation>
+<characters style="simplified">阴</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>y&#299;n</pronunciation>
+<characters style="simplified">陰</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/9634.gif" />
+<audio src="resources/audio/9634.wav" />
+</url>
+</word>
+</dictionary>

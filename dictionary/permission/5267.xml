@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5267" name="j&#249;">
+<source name="english">drama , play , show , severe</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>j&#249;</pronunciation>
+<characters style="simplified">剧</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>j&#249;</pronunciation>
+<characters style="simplified">劇</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5267.gif" />
+<audio src="resources/audio/5267.wav" />
+</url>
+</word>
+</dictionary>

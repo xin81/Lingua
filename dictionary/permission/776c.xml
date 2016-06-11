@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="776c" name="c&#462;i">
+<source name="english">pay attention , take notice of , to care for</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>c&#462;i</pronunciation>
+<characters style="simplified">睬</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>c&#462;i</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/776c.gif" />
+<audio src="resources/audio/776c.wav" />
+</url>
+</word>
+</dictionary>

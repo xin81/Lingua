@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5e06" name="f&#257;n">
+<source name="english">sail</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>f&#257;n</pronunciation>
+<characters style="simplified">帆</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>f&#257;n</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5e06.gif" />
+<audio src="resources/audio/5e06.wav" />
+</url>
+</word>
+</dictionary>

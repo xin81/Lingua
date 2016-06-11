@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="655b" name="li&#462;n">
+<source name="english">arrange , control oneself , gather</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>li&#462;n</pronunciation>
+<characters style="simplified">敛</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>li&#462;n</pronunciation>
+<characters style="simplified">斂</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/655b.gif" />
+<audio src="resources/audio/655b.wav" />
+</url>
+</word>
+</dictionary>

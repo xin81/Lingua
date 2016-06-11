@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="892a" name="t&#249;n">
+<source name="english">fade , take off (clothes)</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>t&#249;n</pronunciation>
+<characters style="simplified">褪</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>t&#249;n</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/892a.gif" />
+<audio src="resources/audio/892a.wav" />
+</url>
+</word>
+</dictionary>

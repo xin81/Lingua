@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="559c" name="x&#464;">
+<source name="english">to be fond of , to like , to enjoy , to be happy , to feel pleased , happiness , delight , glad</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>x&#464;</pronunciation>
+<characters style="simplified">喜</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>x&#464;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/559c.gif" />
+<audio src="resources/audio/559c.wav" />
+</url>
+</word>
+</dictionary>

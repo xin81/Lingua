@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="68cd" name="g&#249;n">
+<source name="english">stick</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>g&#249;n</pronunciation>
+<characters style="simplified">棍</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>g&#249;n</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/68cd.gif" />
+<audio src="resources/audio/68cd.wav" />
+</url>
+</word>
+</dictionary>

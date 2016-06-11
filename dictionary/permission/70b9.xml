@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="70b9" name="di&#462;n">
+<source name="english">(downwards-right convex character stroke) , o'clock , (a measure word) , point , dot , (decimal) point)</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>di&#462;n</pronunciation>
+<characters style="simplified">点</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>di&#462;n</pronunciation>
+<characters style="simplified">點</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/70b9.gif" />
+<audio src="resources/audio/70b9.wav" />
+</url>
+</word>
+</dictionary>

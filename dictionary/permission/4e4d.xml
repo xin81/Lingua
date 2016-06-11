@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="4e4d" name="zh&#224;">
+<source name="english">for the first time , suddenly</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>zh&#224;</pronunciation>
+<characters style="simplified">乍</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>zh&#224;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/4e4d.gif" />
+<audio src="resources/audio/4e4d.wav" />
+</url>
+</word>
+</dictionary>

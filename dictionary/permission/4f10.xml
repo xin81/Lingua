@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="4f10" name="f&#225;">
+<source name="english">(v) cut down; fell , (v) dispatch an expedition against; descend upon</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>f&#225;</pronunciation>
+<characters style="simplified">伐</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>f&#225;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/4f10.gif" />
+<audio src="resources/audio/4f10.wav" />
+</url>
+</word>
+</dictionary>

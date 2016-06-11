@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="60ca" name="j&#299;ng">
+<source name="english">to start , to be frightened , to be scared , alarm</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>j&#299;ng</pronunciation>
+<characters style="simplified">惊</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>j&#299;ng</pronunciation>
+<characters style="simplified">驚</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/60ca.gif" />
+<audio src="resources/audio/60ca.wav" />
+</url>
+</word>
+</dictionary>

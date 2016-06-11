@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="9047" name="y&#249;">
+<source name="english">meet with</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>y&#249;</pronunciation>
+<characters style="simplified">遇</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>y&#249;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/9047.gif" />
+<audio src="resources/audio/9047.wav" />
+</url>
+</word>
+</dictionary>

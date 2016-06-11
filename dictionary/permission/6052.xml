@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6052" name="h&#233;ng">
+<source name="english">permanent</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>h&#233;ng</pronunciation>
+<characters style="simplified">恒</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>h&#233;ng</pronunciation>
+<characters style="simplified">恆</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6052.gif" />
+<audio src="resources/audio/6052.wav" />
+</url>
+</word>
+</dictionary>

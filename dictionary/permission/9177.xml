@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="9177" name="k&#249;">
+<source name="english">ruthless , strong (as of wine) , (slang loan from English) cool, great</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>k&#249;</pronunciation>
+<characters style="simplified">酷</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>k&#249;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/9177.gif" />
+<audio src="resources/audio/9177.wav" />
+</url>
+</word>
+</dictionary>

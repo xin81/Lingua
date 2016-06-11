@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5f04" name="l&#242;ng">
+<source name="english">lane , alley</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>l&#242;ng</pronunciation>
+<characters style="simplified">弄</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>l&#242;ng</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5f04.gif" />
+<audio src="resources/audio/5f04.wav" />
+</url>
+</word>
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="7531" name="y&#243;u">
+<source name="english">follow , from , it is for...to , reason , cause , because of , due to , by , to , to leave it (to sb)</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>y&#243;u</pronunciation>
+<characters style="simplified">由</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>y&#243;u</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/7531.gif" />
+<audio src="resources/audio/7531.wav" />
+</url>
+</word>
+</dictionary>

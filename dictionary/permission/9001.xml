@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="9001" name="s&#242;ng">
+<source name="english">to deliver , to carry , to give (as a present) , to present (with) , to see off , to send</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>s&#242;ng</pronunciation>
+<characters style="simplified">送</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>s&#242;ng</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/9001.gif" />
+<audio src="resources/audio/9001.wav" />
+</url>
+</word>
+</dictionary>

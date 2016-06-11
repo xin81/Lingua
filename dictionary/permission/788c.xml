@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="788c" name="l&#249;">
+<source name="english">laborious , small stone , to record , to tape , to write down , to hire , to employ</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>l&#249;</pronunciation>
+<characters style="simplified">碌</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>l&#249;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/788c.gif" />
+<audio src="resources/audio/788c.wav" />
+</url>
+</word>
+</dictionary>

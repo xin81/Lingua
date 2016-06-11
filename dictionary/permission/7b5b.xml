@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="7b5b" name="sh&#257;i">
+<source name="english">to filter , to sift , to sieve</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>sh&#257;i</pronunciation>
+<characters style="simplified">筛</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>sh&#257;i</pronunciation>
+<characters style="simplified">篩</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/7b5b.gif" />
+<audio src="resources/audio/7b5b.wav" />
+</url>
+</word>
+</dictionary>

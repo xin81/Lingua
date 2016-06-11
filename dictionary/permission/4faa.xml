@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="4faa" name="ch&#225;i">
+<source name="english">a class , a company , companion</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>ch&#225;i</pronunciation>
+<characters style="simplified">侪</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>ch&#225;i</pronunciation>
+<characters style="simplified">儕</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/4faa.gif" />
+<audio src="resources/audio/4faa.wav" />
+</url>
+</word>
+</dictionary>

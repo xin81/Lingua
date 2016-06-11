@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5bbe" name="b&#299;n">
+<source name="english">visitor , guest</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>b&#299;n</pronunciation>
+<characters style="simplified">宾</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>b&#299;n</pronunciation>
+<characters style="simplified">賓</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5bbe.gif" />
+<audio src="resources/audio/5bbe.wav" />
+</url>
+</word>
+</dictionary>

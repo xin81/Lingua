@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="518c" name="c&#232;">
+<source name="english">book , a measure word for books , booklet</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>c&#232;</pronunciation>
+<characters style="simplified">册</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>c&#232;</pronunciation>
+<characters style="simplified">冊</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/518c.gif" />
+<audio src="resources/audio/518c.wav" />
+</url>
+</word>
+</dictionary>

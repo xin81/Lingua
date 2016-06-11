@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="63a8" name="tu&#299;">
+<source name="english">push , refuse (responsibility) , shove</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>tu&#299;</pronunciation>
+<characters style="simplified">推</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>tu&#299;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/63a8.gif" />
+<audio src="resources/audio/63a8.wav" />
+</url>
+</word>
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5c9b" name="d&#462;o">
+<source name="english">island</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>d&#462;o</pronunciation>
+<characters style="simplified">岛</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>d&#462;o</pronunciation>
+<characters style="simplified">島</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5c9b.gif" />
+<audio src="resources/audio/5c9b.wav" />
+</url>
+</word>
+</dictionary>

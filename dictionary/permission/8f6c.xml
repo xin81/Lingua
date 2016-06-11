@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="8f6c" name="zhu&#462;n">
+<source name="english">to convey , to forward (mail) , to transfer , to turn , to shift</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>zhu&#462;n</pronunciation>
+<characters style="simplified">转</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>zhu&#462;n</pronunciation>
+<characters style="simplified">轉</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/8f6c.gif" />
+<audio src="resources/audio/8f6c.wav" />
+</url>
+</word>
+</dictionary>

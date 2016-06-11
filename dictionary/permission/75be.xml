@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="75be" name="j&#237;">
+<source name="english">sickness , disease , hate , envy</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>j&#237;</pronunciation>
+<characters style="simplified">疾</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>j&#237;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/75be.gif" />
+<audio src="resources/audio/75be.wav" />
+</url>
+</word>
+</dictionary>

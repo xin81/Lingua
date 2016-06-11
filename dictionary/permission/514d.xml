@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="514d" name="mi&#462;n">
+<source name="english">to exempt , to remove , to avoid , to excuse</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>mi&#462;n</pronunciation>
+<characters style="simplified">免</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>mi&#462;n</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/514d.gif" />
+<audio src="resources/audio/514d.wav" />
+</url>
+</word>
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5de8" name="j&#249;">
+<source name="english">very large , huge , tremendous , gigantic</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>j&#249;</pronunciation>
+<characters style="simplified">巨</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>j&#249;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5de8.gif" />
+<audio src="resources/audio/5de8.wav" />
+</url>
+</word>
+</dictionary>

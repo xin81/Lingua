@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="89de" name="sh&#257;ng">
+<source name="english">feast , goblet</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>sh&#257;ng</pronunciation>
+<characters style="simplified">觞</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>sh&#257;ng</pronunciation>
+<characters style="simplified">觴</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/89de.gif" />
+<audio src="resources/audio/89de.wav" />
+</url>
+</word>
+</dictionary>

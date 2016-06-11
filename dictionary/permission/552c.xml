@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="552c" name="h&#468;">
+<source name="english">intimidate , tiger's roar , to fool</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>h&#468;</pronunciation>
+<characters style="simplified">唬</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>h&#468;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/552c.gif" />
+<audio src="resources/audio/552c.wav" />
+</url>
+</word>
+</dictionary>

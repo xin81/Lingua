@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5f97" name="de2">
+<source name="english">obtain , get , gain , proper , suitable , proud , contented , allow , permit , ready , finished</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>d&#233;</pronunciation>
+<characters style="simplified">得</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>d&#233;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5f97.gif" />
+<audio src="resources/audio/5f97.wav" />
+</url>
+</word>
+</dictionary>

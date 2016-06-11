@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="98a4" name="zh&#224;n">
+<source name="english">to tremble , to shiver , to shake , to vibrate</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>zh&#224;n</pronunciation>
+<characters style="simplified">颤</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>zh&#224;n</pronunciation>
+<characters style="simplified">顫</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/98a4.gif" />
+<audio src="resources/audio/98a4.wav" />
+</url>
+</word>
+</dictionary>

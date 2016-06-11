@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="540c" name="t&#243;ng">
+<source name="english">like , same , similar , together , alike , with</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>t&#243;ng</pronunciation>
+<characters style="simplified">同</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>t&#243;ng</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/540c.gif" />
+<audio src="resources/audio/540c.wav" />
+</url>
+</word>
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="517c" name="ji&#257;n">
+<source name="english">double , twice , simultaneous , holding two or more (official) posts at the same time</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>ji&#257;n</pronunciation>
+<characters style="simplified">兼</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>ji&#257;n</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/517c.gif" />
+<audio src="resources/audio/517c.wav" />
+</url>
+</word>
+</dictionary>

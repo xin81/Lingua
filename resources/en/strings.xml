@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings>
+<!-- components in LFrame -->
+<string name="de.lingua.gui.LFrame.title">你好 学生!</string>
+<string name="de.lingua.gui.LFrame.left_jtextarea">中文</string>
+<string name="de.lingua.gui.LFrame.right_jtextarea">English</string>
+<string name="de.lingua.gui.LFrame.jbPlay">Play</string>
+<string name="de.lingua.gui.LFrame.jbStop">Stop</string>
+<string name="de.lingua.gui.LFrame.jbDelete">Delete</string>
+<string name="de.lingua.gui.LFrame.left_jbutton">Move to the left</string>
+<string name="de.lingua.gui.LFrame.right_jbutton">Move to the right</string>
+<string name="de.lingua.gui.LFrame.JEditorPane.url1">http://www.learnchineseez.com/read-write/images/4e2d.gif</string>
+<String name="de.lingua.gui.LFrame.JEditorPane.url2">http://www.learnchineseez.com/read-write/images/6587.gif</String>
+
+<!-- components in LMenuBar -->
+<string name="de.lingua.gui.LMenuBar.jmFile">File</string>
+<string name="de.lingua.gui.LMenuBar.jmiSave">Save</string>
+<string name="de.lingua.gui.LMenuBar.jmiReset">Reset</string>
+<string name="de.lingua.gui.LMenuBar.jmiClose">Close</string>
+<string name="de.lingua.gui.LMenuBar.jmHelp">Help</string>
+<string name="de.lingua.gui.LMenuBar.jmiAbout">About</string>
+
+</strings>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6f14" name="y&#462;n">
+<source name="english">to develop , to evolve , to practice , to perform , to play , to act</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>y&#462;n</pronunciation>
+<characters style="simplified">演</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>y&#462;n</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6f14.gif" />
+<audio src="resources/audio/6f14.wav" />
+</url>
+</word>
+</dictionary>

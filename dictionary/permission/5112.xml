@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5112" name="r&#250;">
+<source name="english">scholar , Confucian</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>r&#250;</pronunciation>
+<characters style="simplified">儒</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>r&#250;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5112.gif" />
+<audio src="resources/audio/5112.wav" />
+</url>
+</word>
+</dictionary>

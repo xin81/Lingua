@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="7ec3" name="li&#224;n">
+<source name="english">to practice , to train , to perfect (one's skill) , to drill</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>li&#224;n</pronunciation>
+<characters style="simplified">练</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>li&#224;n</pronunciation>
+<characters style="simplified">練</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/7ec3.gif" />
+<audio src="resources/audio/7ec3.wav" />
+</url>
+</word>
+</dictionary>

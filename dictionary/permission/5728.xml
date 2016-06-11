@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5728" name="zai4">
+<source name="english">(located) at , in , exist , (before verbs) immediately involved in , right in the middle of doing</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>z&#224;i</pronunciation>
+<characters style="simplified">在</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>z&#224;i</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5728.gif" />
+<audio src="resources/audio/5728.wav" />
+</url>
+</word>
+</dictionary>

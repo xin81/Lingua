@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="534a" name="b&#224;n">
+<source name="english">half , semi- , incomplete , (after a number) and a half , half</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>b&#224;n</pronunciation>
+<characters style="simplified">半</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>b&#224;n</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/534a.gif" />
+<audio src="resources/audio/534a.wav" />
+</url>
+</word>
+</dictionary>

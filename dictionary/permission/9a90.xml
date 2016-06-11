@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="9a90" name="q&#237;">
+<source name="english">piebald horse</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>q&#237;</pronunciation>
+<characters style="simplified">骐</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>q&#237;</pronunciation>
+<characters style="simplified">騏</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/9a90.gif" />
+<audio src="resources/audio/9a90.wav" />
+</url>
+</word>
+</dictionary>

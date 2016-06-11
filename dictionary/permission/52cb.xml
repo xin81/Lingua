@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="52cb" name="x&#363;n">
+<source name="english">medal , merit</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>x&#363;n</pronunciation>
+<characters style="simplified">勋</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>x&#363;n</pronunciation>
+<characters style="simplified">勛</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/52cb.gif" />
+<audio src="resources/audio/52cb.wav" />
+</url>
+</word>
+</dictionary>

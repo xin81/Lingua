@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="4e39" name="d&#257;n">
+<source name="english">red , pellet , powder , cinnabar</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>d&#257;n</pronunciation>
+<characters style="simplified">丹</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>d&#257;n</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/4e39.gif" />
+<audio src="resources/audio/4e39.wav" />
+</url>
+</word>
+</dictionary>

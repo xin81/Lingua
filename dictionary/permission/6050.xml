@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6050" name="k&#466;ng">
+<source name="english">afraid , frightened , to fear</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>k&#466;ng</pronunciation>
+<characters style="simplified">恐</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>k&#466;ng</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6050.gif" />
+<audio src="resources/audio/6050.wav" />
+</url>
+</word>
+</dictionary>

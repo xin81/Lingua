@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="9b54" name="m&#243;">
+<source name="english">devil</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>m&#243;</pronunciation>
+<characters style="simplified">魔</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>m&#243;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/9b54.gif" />
+<audio src="resources/audio/9b54.wav" />
+</url>
+</word>
+</dictionary>

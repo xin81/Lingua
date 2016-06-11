@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="78b1" name="ji&#462;n">
+<source name="english">alkali , soda</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>ji&#462;n</pronunciation>
+<characters style="simplified">碱</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>ji&#462;n</pronunciation>
+<characters style="simplified">鹼</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/78b1.gif" />
+<audio src="resources/audio/78b1.wav" />
+</url>
+</word>
+</dictionary>

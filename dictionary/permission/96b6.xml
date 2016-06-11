@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="96b6" name="l&#236;">
+<source name="english">attached to , scribe</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>l&#236;</pronunciation>
+<characters style="simplified">隶</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>l&#236;</pronunciation>
+<characters style="simplified">隸</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/96b6.gif" />
+<audio src="resources/audio/96b6.wav" />
+</url>
+</word>
+</dictionary>

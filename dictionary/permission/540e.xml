@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="540e" name="h&#242;u">
+<source name="english">empress , queen , surname</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>h&#242;u</pronunciation>
+<characters style="simplified">后</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>h&#242;u</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/540e.gif" />
+<audio src="resources/audio/540e.wav" />
+</url>
+</word>
+</dictionary>

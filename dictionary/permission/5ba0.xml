@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5ba0" name="ch&#466;ng">
+<source name="english">to love , to pamper , to spoil , to favor</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>ch&#466;ng</pronunciation>
+<characters style="simplified">宠</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>ch&#466;ng</pronunciation>
+<characters style="simplified">寵</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5ba0.gif" />
+<audio src="resources/audio/5ba0.wav" />
+</url>
+</word>
+</dictionary>

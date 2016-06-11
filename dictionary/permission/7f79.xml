@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="7f79" name="l&#237;">
+<source name="english">happen to , sorrow , suffer from</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>l&#237;</pronunciation>
+<characters style="simplified">罹</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>l&#237;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/7f79.gif" />
+<audio src="resources/audio/7f79.wav" />
+</url>
+</word>
+</dictionary>

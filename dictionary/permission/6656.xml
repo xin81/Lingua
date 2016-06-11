@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6656" name="hu&#299;">
+<source name="english">bright , radiant</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>hu&#299;</pronunciation>
+<characters style="simplified">晖</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>hu&#299;</pronunciation>
+<characters style="simplified">暉</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6656.gif" />
+<audio src="resources/audio/6656.wav" />
+</url>
+</word>
+</dictionary>

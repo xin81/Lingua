@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6da1" name="gu&#333;">
+<source name="english">name of a river</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>gu&#333;</pronunciation>
+<characters style="simplified">涡</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>gu&#333;</pronunciation>
+<characters style="simplified">渦</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6da1.gif" />
+<audio src="resources/audio/6da1.wav" />
+</url>
+</word>
+</dictionary>

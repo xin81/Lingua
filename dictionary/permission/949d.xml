@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="949d" name="d&#249;n">
+<source name="english">blunt , stupid</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>d&#249;n</pronunciation>
+<characters style="simplified">钝</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>d&#249;n</pronunciation>
+<characters style="simplified">鈍</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/949d.gif" />
+<audio src="resources/audio/949d.wav" />
+</url>
+</word>
+</dictionary>

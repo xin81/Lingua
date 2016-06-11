@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="907f" name="b&#236;">
+<source name="english">avoid , shun , flee , escape , leave , to keep away , to leave , to hide</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>b&#236;</pronunciation>
+<characters style="simplified">避</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>b&#236;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/907f.gif" />
+<audio src="resources/audio/907f.wav" />
+</url>
+</word>
+</dictionary>

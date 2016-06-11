@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6de4" name="y&#363;">
+<source name="english">silt</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>y&#363;</pronunciation>
+<characters style="simplified">淤</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>y&#363;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6de4.gif" />
+<audio src="resources/audio/6de4.wav" />
+</url>
+</word>
+</dictionary>

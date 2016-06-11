@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="4e60" name="x&#237;">
+<source name="english">to practice , to study , habit</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>x&#237;</pronunciation>
+<characters style="simplified">习</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>x&#237;</pronunciation>
+<characters style="simplified">習</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/4e60.gif" />
+<audio src="resources/audio/4e60.wav" />
+</url>
+</word>
+</dictionary>

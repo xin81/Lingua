@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5254" name="t&#299;">
+<source name="english">pick (as teeth)</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>t&#299;</pronunciation>
+<characters style="simplified">剔</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>t&#299;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5254.gif" />
+<audio src="resources/audio/5254.wav" />
+</url>
+</word>
+</dictionary>

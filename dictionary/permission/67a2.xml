@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="67a2" name="sh&#363;">
+<source name="english">hinge , pivot</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>sh&#363;</pronunciation>
+<characters style="simplified">枢</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>sh&#363;</pronunciation>
+<characters style="simplified">樞</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/67a2.gif" />
+<audio src="resources/audio/67a2.wav" />
+</url>
+</word>
+</dictionary>

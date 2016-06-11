@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="52a8" name="d&#242;ng">
+<source name="english">to use , to act , to move , to change</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>d&#242;ng</pronunciation>
+<characters style="simplified">动</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>d&#242;ng</pronunciation>
+<characters style="simplified">動</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/52a8.gif" />
+<audio src="resources/audio/52a8.wav" />
+</url>
+</word>
+</dictionary>

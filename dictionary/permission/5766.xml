@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5766" name="t&#462;n">
+<source name="english">flat , open-hearted , level , smooth</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>t&#462;n</pronunciation>
+<characters style="simplified">坦</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>t&#462;n</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5766.gif" />
+<audio src="resources/audio/5766.wav" />
+</url>
+</word>
+</dictionary>

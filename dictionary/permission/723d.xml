@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="723d" name="shu&#462;ng">
+<source name="english">invigorating , straightforward , frank , open , bright , clear</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>shu&#462;ng</pronunciation>
+<characters style="simplified">爽</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>shu&#462;ng</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/723d.gif" />
+<audio src="resources/audio/723d.wav" />
+</url>
+</word>
+</dictionary>

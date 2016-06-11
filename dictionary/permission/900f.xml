@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="900f" name="t&#242;u">
+<source name="english">to penetrate , thorough , penetrating , to pass through , to pierce</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>t&#242;u</pronunciation>
+<characters style="simplified">透</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>t&#242;u</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/900f.gif" />
+<audio src="resources/audio/900f.wav" />
+</url>
+</word>
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="62e8" name="b&#333;">
+<source name="english">to push aside , to appropriate (money) , to move , to set aside , group , batch , to poke , to stir</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>b&#333;</pronunciation>
+<characters style="simplified">拨</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>b&#333;</pronunciation>
+<characters style="simplified">撥</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/62e8.gif" />
+<audio src="resources/audio/62e8.wav" />
+</url>
+</word>
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6d0b" name="y&#225;ng">
+<source name="english">foreign , ocean</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>y&#225;ng</pronunciation>
+<characters style="simplified">洋</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>y&#225;ng</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6d0b.gif" />
+<audio src="resources/audio/6d0b.wav" />
+</url>
+</word>
+</dictionary>

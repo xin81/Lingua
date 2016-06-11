@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="634f" name="ni&#275;">
+<source name="english">to pinch (with one's fingers) , to knead , to make up</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>ni&#275;</pronunciation>
+<characters style="simplified">捏</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>ni&#275;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/634f.gif" />
+<audio src="resources/audio/634f.wav" />
+</url>
+</word>
+</dictionary>

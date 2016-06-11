@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5546" name="sh&#257;ng">
+<source name="english">commerce , consult</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>sh&#257;ng</pronunciation>
+<characters style="simplified">商</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>sh&#257;ng</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5546.gif" />
+<audio src="resources/audio/5546.wav" />
+</url>
+</word>
+</dictionary>

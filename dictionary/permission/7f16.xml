@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="7f16" name="bi&#257;n">
+<source name="english">weave , plait , organize , group , arrange , edit , compile , write , compose , fabricate</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>bi&#257;n</pronunciation>
+<characters style="simplified">编</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>bi&#257;n</pronunciation>
+<characters style="simplified">編</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/7f16.gif" />
+<audio src="resources/audio/7f16.wav" />
+</url>
+</word>
+</dictionary>

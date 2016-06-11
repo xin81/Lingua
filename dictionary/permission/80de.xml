@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="80de" name="b&#257;o">
+<source name="english">the placenta , womb</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>b&#257;o</pronunciation>
+<characters style="simplified">胞</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>b&#257;o</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/80de.gif" />
+<audio src="resources/audio/80de.wav" />
+</url>
+</word>
+</dictionary>

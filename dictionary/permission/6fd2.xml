@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6fd2" name="b&#299;n">
+<source name="english">near</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>b&#299;n</pronunciation>
+<characters style="simplified">濒</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>b&#299;n</pronunciation>
+<characters style="simplified">瀕</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6fd2.gif" />
+<audio src="resources/audio/6fd2.wav" />
+</url>
+</word>
+</dictionary>

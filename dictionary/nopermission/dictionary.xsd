@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:attribute name="src" type="xs:string" />
+<xs:attribute name="style" type="xs:string" />
+<xs:attribute name="name" type="xs:string" />
+<xs:attribute name="id" type="xs:string" />
+
+<xs:complexType name="characterType">
+<xs:simpleContent>
+<xs:extension base="xs:string">
+<xs:attribute ref="style" use="required" />
+</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+
+<xs:element name="pronunciation" type="xs:string" />
+<xs:element name="characters" type="characterType" />
+
+<xs:element name="gif">
+<xs:complexType>
+<xs:attribute ref="src" use="required" />
+</xs:complexType>
+</xs:element>
+
+<xs:element name="audio">
+<xs:complexType>
+<xs:attribute ref="src" use="required" />
+</xs:complexType>
+</xs:element>
+
+<xs:element name="dialect">
+<xs:complexType>
+<xs:sequence>
+<xs:element ref="pronunciation" />
+<xs:element ref="characters" />
+</xs:sequence>
+<xs:attribute ref="name" use="required" />
+</xs:complexType>
+</xs:element>
+
+<xs:element name="source" />
+
+<xs:element name="target">
+<xs:complexType>
+<xs:sequence>
+<xs:element ref="dialect" maxOccurs="unbounded" />
+</xs:sequence>
+<xs:attribute ref="name" use="required" />
+</xs:complexType>
+</xs:element>
+
+<xs:element name="url">
+<xs:complexType>
+<xs:sequence>
+<xs:element ref="gif" maxOccurs="unbounded" />
+<xs:element ref="audio" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="word">
+<xs:complexType>
+<xs:sequence>
+<xs:element ref="source" />
+<xs:element ref="target" />
+<xs:element ref="url" />
+</xs:sequence>
+<xs:attribute ref="id" use="required" />
+</xs:complexType>
+</xs:element>
+
+<xs:element name="dictionary">
+<xs:complexType>
+<xs:sequence>
+<xs:element ref="word" maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:schema>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="8c37" name="g&#468;">
+<source name="english">grain , corn</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>g&#468;</pronunciation>
+<characters style="simplified">谷</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>g&#468;</pronunciation>
+<characters style="simplified">穀</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/8c37.gif" />
+<audio src="resources/audio/8c37.wav" />
+</url>
+</word>
+</dictionary>

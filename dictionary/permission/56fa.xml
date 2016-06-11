@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="56fa" name="g&#249;">
+<source name="english">hard , strong , solid , sure</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>g&#249;</pronunciation>
+<characters style="simplified">固</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>g&#249;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/56fa.gif" />
+<audio src="resources/audio/56fa.wav" />
+</url>
+</word>
+</dictionary>

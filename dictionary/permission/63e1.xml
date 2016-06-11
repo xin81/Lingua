@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="63e1" name="w&#242;">
+<source name="english">shake hands , to hold , to grasp</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>w&#242;</pronunciation>
+<characters style="simplified">握</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>w&#242;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/63e1.gif" />
+<audio src="resources/audio/63e1.wav" />
+</url>
+</word>
+</dictionary>

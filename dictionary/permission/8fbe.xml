@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="8fbe" name="d&#225;">
+<source name="english">attain , pass through , achieve , reach , realize , clear , inform , notify , dignity</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>d&#225;</pronunciation>
+<characters style="simplified">达</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>d&#225;</pronunciation>
+<characters style="simplified">達</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/8fbe.gif" />
+<audio src="resources/audio/8fbe.wav" />
+</url>
+</word>
+</dictionary>

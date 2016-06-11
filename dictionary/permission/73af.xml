@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="73af" name="hu&#225;n">
+<source name="english">bracelet , ring (not for finger) , to surround , to loop , loop</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>hu&#225;n</pronunciation>
+<characters style="simplified">环</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>hu&#225;n</pronunciation>
+<characters style="simplified">環</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/73af.gif" />
+<audio src="resources/audio/73af.wav" />
+</url>
+</word>
+</dictionary>

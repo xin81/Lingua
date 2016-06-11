@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="4ed6" name="ta1">
+<source name="english">he , him</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>t&#257;</pronunciation>
+<characters style="simplified">他</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>t&#257;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/4ed6.gif" />
+<audio src="resources/audio/4ed6.wav" />
+</url>
+</word>
+</dictionary>

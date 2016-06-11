@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5188" name="g&#257;ng">
+<source name="english">ridge , mound</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>g&#257;ng</pronunciation>
+<characters style="simplified">冈</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>g&#257;ng</pronunciation>
+<characters style="simplified">岡</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5188.gif" />
+<audio src="resources/audio/5188.wav" />
+</url>
+</word>
+</dictionary>

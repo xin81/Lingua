@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5faa" name="x&#250;n">
+<source name="english">to follow , to adhere to , to abide by</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>x&#250;n</pronunciation>
+<characters style="simplified">循</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>x&#250;n</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5faa.gif" />
+<audio src="resources/audio/5faa.wav" />
+</url>
+</word>
+</dictionary>

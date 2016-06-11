@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="641e" name="g&#462;o">
+<source name="english">to do , to make , to go in for , to set up , to get hold of , to take care of</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>g&#462;o</pronunciation>
+<characters style="simplified">搞</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>g&#462;o</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/641e.gif" />
+<audio src="resources/audio/641e.wav" />
+</url>
+</word>
+</dictionary>

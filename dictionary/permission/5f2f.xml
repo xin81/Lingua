@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5f2f" name="w&#257;n">
+<source name="english">bend , bent</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>w&#257;n</pronunciation>
+<characters style="simplified">弯</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>w&#257;n</pronunciation>
+<characters style="simplified">彎</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5f2f.gif" />
+<audio src="resources/audio/5f2f.wav" />
+</url>
+</word>
+</dictionary>

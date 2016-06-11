@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="51ff" name="z&#225;o">
+<source name="english">chisel</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>z&#225;o</pronunciation>
+<characters style="simplified">凿</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>z&#225;o</pronunciation>
+<characters style="simplified">鑿</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/51ff.gif" />
+<audio src="resources/audio/51ff.wav" />
+</url>
+</word>
+</dictionary>

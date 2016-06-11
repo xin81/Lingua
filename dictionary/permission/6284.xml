@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6284" name="ch&#257;o">
+<source name="english">to copy , to plagiarize , to search and seize , to go , to transcribe , to take a shortcut , to search and confiscate</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>ch&#257;o</pronunciation>
+<characters style="simplified">抄</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>ch&#257;o</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6284.gif" />
+<audio src="resources/audio/6284.wav" />
+</url>
+</word>
+</dictionary>

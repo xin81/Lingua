@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<about xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="about.xsd">
+    <software>N&#301; hăo （你好）</software>
+    <createdBy>
+        <author>Nguyễn Việt Tân （阮越新）</author>
+    </createdBy>
+    
+    <documentedBy>
+        <author>Nguyễn Việt Tân （阮越新）</author>
+    </documentedBy>
+    
+    <references>
+    	<source src="http://www.learnchineseez.com/read-write/simplified" />
+    	<source src="http://www.learnchineseez.com/read-write/traditional" />
+    </references>
+<!--    
+    <contributions>
+        <author>no one</author>
+    </contributions>
+-->    
+    <copyright>&#169; 2015 Nguyễn Việt Tân（阮越新）</copyright>
+    <licence>Unknown</licence>
+</about>

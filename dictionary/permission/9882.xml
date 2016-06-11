@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="9882" name="s&#242;ng">
+<source name="english">to praise</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>s&#242;ng</pronunciation>
+<characters style="simplified">颂</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>s&#242;ng</pronunciation>
+<characters style="simplified">頌</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/9882.gif" />
+<audio src="resources/audio/9882.wav" />
+</url>
+</word>
+</dictionary>

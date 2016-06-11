@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="9009" name="xu&#462;n">
+<source name="english">to choose , to pick , to select , to elect</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>xu&#462;n</pronunciation>
+<characters style="simplified">选</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>xu&#462;n</pronunciation>
+<characters style="simplified">選</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/9009.gif" />
+<audio src="resources/audio/9009.wav" />
+</url>
+</word>
+</dictionary>

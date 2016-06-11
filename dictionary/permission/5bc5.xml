@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5bc5" name="y&#237;n">
+<source name="english">3-5 a.m. , 3rd earthly branch</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>y&#237;n</pronunciation>
+<characters style="simplified">寅</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>y&#237;n</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5bc5.gif" />
+<audio src="resources/audio/5bc5.wav" />
+</url>
+</word>
+</dictionary>

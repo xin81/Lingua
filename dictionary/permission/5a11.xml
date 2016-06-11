@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5a11" name="su&#333;">
+<source name="english">(phonetic) , loose</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>su&#333;</pronunciation>
+<characters style="simplified">娑</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>su&#333;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5a11.gif" />
+<audio src="resources/audio/5a11.wav" />
+</url>
+</word>
+</dictionary>

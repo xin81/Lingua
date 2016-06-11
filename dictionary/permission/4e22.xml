@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="4e22" name="di&#363;">
+<source name="english">to lose , to put aside , to throw</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>di&#363;</pronunciation>
+<characters style="simplified">丢</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>di&#363;</pronunciation>
+<characters style="simplified">丟</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/4e22.gif" />
+<audio src="resources/audio/4e22.wav" />
+</url>
+</word>
+</dictionary>

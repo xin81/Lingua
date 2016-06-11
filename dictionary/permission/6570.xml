@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6570" name="sh&#468;">
+<source name="english">to count</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>sh&#468;</pronunciation>
+<characters style="simplified">数</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>sh&#468;</pronunciation>
+<characters style="simplified">數</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6570.gif" />
+<audio src="resources/audio/6570.wav" />
+</url>
+</word>
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6ebc" name="sh&#299;">
+<source name="english">wet</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>sh&#299;</pronunciation>
+<characters style="simplified">溼</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>sh&#299;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6ebc.gif" />
+<audio src="resources/audio/6ebc.wav" />
+</url>
+</word>
+</dictionary>

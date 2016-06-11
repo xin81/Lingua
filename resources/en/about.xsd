@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="author" type="xs:string" />
+<xs:element name="software" type="xs:string" />
+<xs:element name="copyright" type="xs:string" />
+<xs:element name="licence" type="xs:string" />
+
+<xs:element name="createdBy">
+<xs:complexType>
+<xs:sequence>
+<xs:element ref="author" minOccurs="1" maxOccurs="unbounded" />
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+ 
+<xs:element name="documentedBy">
+<xs:complexType>
+<xs:sequence>
+<xs:element ref="author" minOccurs="1" maxOccurs="unbounded" />
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="contributor">
+<xs:complexType>
+<xs:sequence>
+<xs:element ref="author" minOccurs="1" maxOccurs="unbounded" />
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="contributions">
+<xs:complexType>
+<xs:sequence>
+<xs:element ref="contributor" minOccurs="1" maxOccurs="unbounded" />
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="source">
+<xs:complexType>
+<xs:attribute name="src" use="required" />
+</xs:complexType>
+</xs:element>
+
+<xs:element name="references">
+<xs:complexType>
+<xs:sequence>
+<xs:element ref="source" maxOccurs="unbounded" />
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="about">
+<xs:complexType>
+<xs:sequence>
+<xs:element ref="software" />
+<xs:element ref="createdBy" />
+<xs:element ref="documentedBy" />
+<xs:element ref="references" minOccurs="0" />
+<xs:element ref="contributions" minOccurs="0" maxOccurs="1" />
+<xs:element ref="copyright" /> 
+<xs:element ref="licence" />
+
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+</xs:schema>

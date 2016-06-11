@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="9e64" name="h&#232;">
+<source name="english">crane</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>h&#232;</pronunciation>
+<characters style="simplified">鹤</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>h&#232;</pronunciation>
+<characters style="simplified">鶴</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/9e64.gif" />
+<audio src="resources/audio/9e64.wav" />
+</url>
+</word>
+</dictionary>

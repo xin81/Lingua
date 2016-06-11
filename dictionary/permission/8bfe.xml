@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="8bfe" name="k&#232;">
+<source name="english">subject , class , lesson</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>k&#232;</pronunciation>
+<characters style="simplified">课</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>k&#232;</pronunciation>
+<characters style="simplified">課</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/8bfe.gif" />
+<audio src="resources/audio/8bfe.wav" />
+</url>
+</word>
+</dictionary>

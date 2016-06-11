@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="767b" name="d&#275;ng">
+<source name="english">scale , climb , ascend , mount , go up , register , note , to publish , to issue , to record</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>d&#275;ng</pronunciation>
+<characters style="simplified">登</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>d&#275;ng</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/767b.gif" />
+<audio src="resources/audio/767b.wav" />
+</url>
+</word>
+</dictionary>

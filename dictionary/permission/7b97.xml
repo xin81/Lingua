@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="7b97" name="su&#224;n">
+<source name="english">regard as , to figure , to calculate , to compute</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>su&#224;n</pronunciation>
+<characters style="simplified">算</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>su&#224;n</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/7b97.gif" />
+<audio src="resources/audio/7b97.wav" />
+</url>
+</word>
+</dictionary>

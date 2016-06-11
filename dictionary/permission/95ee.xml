@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="95ee" name="wen4">
+<source name="english">to ask</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>w&#232;n</pronunciation>
+<characters style="simplified">问</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>w&#232;n</pronunciation>
+<characters style="simplified">問</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/95ee.gif" />
+<audio src="resources/audio/95ee.wav" />
+</url>
+</word>
+</dictionary>

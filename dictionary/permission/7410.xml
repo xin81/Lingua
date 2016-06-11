@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="7410" name="su&#466;">
+<source name="english">fragmentary , trifling</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>su&#466;</pronunciation>
+<characters style="simplified">琐</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>su&#466;</pronunciation>
+<characters style="simplified">瑣</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/7410.gif" />
+<audio src="resources/audio/7410.wav" />
+</url>
+</word>
+</dictionary>

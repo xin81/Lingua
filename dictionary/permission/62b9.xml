@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="62b9" name="m&#466;">
+<source name="english">play , to smear</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>m&#466;</pronunciation>
+<characters style="simplified">抹</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>m&#466;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/62b9.gif" />
+<audio src="resources/audio/62b9.wav" />
+</url>
+</word>
+</dictionary>

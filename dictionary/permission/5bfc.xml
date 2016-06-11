@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5bfc" name="d&#462;o">
+<source name="english">to transmit , to lead , to guide , to conduct , to direct</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>d&#462;o</pronunciation>
+<characters style="simplified">导</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>d&#462;o</pronunciation>
+<characters style="simplified">導</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5bfc.gif" />
+<audio src="resources/audio/5bfc.wav" />
+</url>
+</word>
+</dictionary>

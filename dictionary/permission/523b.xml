@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="523b" name="k&#232;">
+<source name="english">quarter (hour) , (a measure word) , to carve , to engrave , to cut , oppressive</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>k&#232;</pronunciation>
+<characters style="simplified">刻</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>k&#232;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/523b.gif" />
+<audio src="resources/audio/523b.wav" />
+</url>
+</word>
+</dictionary>

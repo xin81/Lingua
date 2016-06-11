@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="83cc" name="j&#363;n">
+<source name="english">germ , bacteria</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>j&#363;n</pronunciation>
+<characters style="simplified">菌</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>j&#363;n</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/83cc.gif" />
+<audio src="resources/audio/83cc.wav" />
+</url>
+</word>
+</dictionary>

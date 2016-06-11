@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="77f3" name="d&#224;n">
+<source name="english">10 pecks</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>d&#224;n</pronunciation>
+<characters style="simplified">石</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>d&#224;n</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/77f3.gif" />
+<audio src="resources/audio/77f3.wav" />
+</url>
+</word>
+</dictionary>

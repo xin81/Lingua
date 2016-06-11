@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6cc4" name="xi&#232;">
+<source name="english">divulge , leak out</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>xi&#232;</pronunciation>
+<characters style="simplified">泄</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>xi&#232;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6cc4.gif" />
+<audio src="resources/audio/6cc4.wav" />
+</url>
+</word>
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5df3" name="s&#236;">
+<source name="english">6th earthly branch , 9-11 a.m.</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>s&#236;</pronunciation>
+<characters style="simplified">巳</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>s&#236;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5df3.gif" />
+<audio src="resources/audio/5df3.wav" />
+</url>
+</word>
+</dictionary>

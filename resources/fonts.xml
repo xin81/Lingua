@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+<font name="de.lingua.gui.LFrame.left_jtextarea">
+<family>Serif</family>
+<style>CENTER_BASELINE</style>
+<size>25</size>
+</font>
+
+<font name="de.lingua.gui.LFrame.right_jtextarea">
+<family>SansSerif</family>
+<style>PLAIN</style>
+<size>15</size>
+</font>
+
+</resources>

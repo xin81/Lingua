@@ -1,0 +1,16 @@
+=========================
+HELP
+=========================
+
+Usage:
+java -jar ni3hao3.jar
+# '#' means "NOT supported yet"
+# java -jar ni3hao3.jar [OPTIONS VALUE]
+# java -jar ni3hao3.jar -help|[-language LANGUAGE|-db [0|1]|-os [linux|mac|windows|any]]
+
+Options:
+-help prints out this help information
+-langauge expects en (English)|de (German)|...; Currently, only English is supported
+-db expects 0|1; if set to 1, this software application supports database requests
+-os expectes the name of your operating system; by default it should work on any operating system.
+If it does not work on your operating system, please leave a message on http://www.github.com/xin81

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="97a0" name="j&#363;">
+<source name="english">to bring up , to rear , Ju (a surname)</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>j&#363;</pronunciation>
+<characters style="simplified">鞠</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>j&#363;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/97a0.gif" />
+<audio src="resources/audio/97a0.wav" />
+</url>
+</word>
+</dictionary>

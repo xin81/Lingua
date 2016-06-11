@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="94c3" name="l&#237;ng">
+<source name="english">(small) bell</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>l&#237;ng</pronunciation>
+<characters style="simplified">铃</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>l&#237;ng</pronunciation>
+<characters style="simplified">鈴</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/94c3.gif" />
+<audio src="resources/audio/94c3.wav" />
+</url>
+</word>
+</dictionary>

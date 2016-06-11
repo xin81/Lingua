@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5217" name="li&#232;">
+<source name="english">to arrange , to line up , row , file , series</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>li&#232;</pronunciation>
+<characters style="simplified">列</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>li&#232;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5217.gif" />
+<audio src="resources/audio/5217.wav" />
+</url>
+</word>
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="54cd" name="xi&#462;ng">
+<source name="english">to make a sound , to sound , to ring , (a measure word for sound) , loud</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>xi&#462;ng</pronunciation>
+<characters style="simplified">响</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>xi&#462;ng</pronunciation>
+<characters style="simplified">響</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/54cd.gif" />
+<audio src="resources/audio/54cd.wav" />
+</url>
+</word>
+</dictionary>

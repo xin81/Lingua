@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="8de8" name="ku&#224;">
+<source name="english">step across , step astride</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>ku&#224;</pronunciation>
+<characters style="simplified">跨</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>ku&#224;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/8de8.gif" />
+<audio src="resources/audio/8de8.wav" />
+</url>
+</word>
+</dictionary>

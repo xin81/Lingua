@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="804a" name="li&#225;o">
+<source name="english">to chat , to have a chat , to kill time</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>li&#225;o</pronunciation>
+<characters style="simplified">聊</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>li&#225;o</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/804a.gif" />
+<audio src="resources/audio/804a.wav" />
+</url>
+</word>
+</dictionary>

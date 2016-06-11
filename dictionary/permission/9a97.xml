@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="9a97" name="pi&#224;n">
+<source name="english">to cheat , to swindle , to deceive , to fool</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>pi&#224;n</pronunciation>
+<characters style="simplified">骗</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>pi&#224;n</pronunciation>
+<characters style="simplified">騙</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/9a97.gif" />
+<audio src="resources/audio/9a97.wav" />
+</url>
+</word>
+</dictionary>

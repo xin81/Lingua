@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="64bc" name="h&#224;n">
+<source name="english">shake , to incite</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>h&#224;n</pronunciation>
+<characters style="simplified">撼</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>h&#224;n</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/64bc.gif" />
+<audio src="resources/audio/64bc.wav" />
+</url>
+</word>
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="697c" name="l&#243;u">
+<source name="english">house with more than 1 story , storied building , floor</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>l&#243;u</pronunciation>
+<characters style="simplified">楼</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>l&#243;u</pronunciation>
+<characters style="simplified">樓</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/697c.gif" />
+<audio src="resources/audio/697c.wav" />
+</url>
+</word>
+</dictionary>

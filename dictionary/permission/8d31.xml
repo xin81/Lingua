@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="8d31" name="ji&#224;n">
+<source name="english">inexpensive , lowly</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>ji&#224;n</pronunciation>
+<characters style="simplified">贱</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>ji&#224;n</pronunciation>
+<characters style="simplified">賤</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/8d31.gif" />
+<audio src="resources/audio/8d31.wav" />
+</url>
+</word>
+</dictionary>

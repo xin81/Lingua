@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="4e00" name="yi1">
+<source name="english">one , 1 , single , a(n) , (before verbs) "no sooner did VERB happen than..." , (before a noun) entire (family, etc.)</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>y&#299;</pronunciation>
+<characters style="simplified">一</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>y&#299;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/4e00.gif" />
+<audio src="resources/audio/4e00.wav" />
+</url>
+</word>
+</dictionary>

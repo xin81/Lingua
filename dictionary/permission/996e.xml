@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="996e" name="y&#464;n">
+<source name="english">drink</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>y&#464;n</pronunciation>
+<characters style="simplified">饮</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>y&#464;n</pronunciation>
+<characters style="simplified">飲</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/996e.gif" />
+<audio src="resources/audio/996e.wav" />
+</url>
+</word>
+</dictionary>

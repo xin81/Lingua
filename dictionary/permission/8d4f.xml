@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="8d4f" name="sh&#462;ng">
+<source name="english">enjoy the beauty of , give</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>sh&#462;ng</pronunciation>
+<characters style="simplified">赏</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>sh&#462;ng</pronunciation>
+<characters style="simplified">賞</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/8d4f.gif" />
+<audio src="resources/audio/8d4f.wav" />
+</url>
+</word>
+</dictionary>

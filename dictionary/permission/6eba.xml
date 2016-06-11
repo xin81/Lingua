@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6eba" name="n&#236;">
+<source name="english">drown , indulge , be addicted to , spoil (a child)</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>n&#236;</pronunciation>
+<characters style="simplified">溺</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>n&#236;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6eba.gif" />
+<audio src="resources/audio/6eba.wav" />
+</url>
+</word>
+</dictionary>

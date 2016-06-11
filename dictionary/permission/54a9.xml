@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="54a9" name="mi&#275;">
+<source name="english">the bleating of sheep</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>mi&#275;</pronunciation>
+<characters style="simplified">咩</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>mi&#275;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/54a9.gif" />
+<audio src="resources/audio/54a9.wav" />
+</url>
+</word>
+</dictionary>

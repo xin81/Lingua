@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5bb3" name="h&#224;i">
+<source name="english">to do harm to , to cause trouble to , harm , evil , calamity</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>h&#224;i</pronunciation>
+<characters style="simplified">害</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>h&#224;i</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5bb3.gif" />
+<audio src="resources/audio/5bb3.wav" />
+</url>
+</word>
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5b7d" name="ni&#232;">
+<source name="english">consequence of sin</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>ni&#232;</pronunciation>
+<characters style="simplified">孽</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>ni&#232;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5b7d.gif" />
+<audio src="resources/audio/5b7d.wav" />
+</url>
+</word>
+</dictionary>

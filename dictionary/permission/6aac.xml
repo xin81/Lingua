@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6aac" name="m&#233;ng">
+<source name="english">lemon</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>m&#233;ng</pronunciation>
+<characters style="simplified">檬</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>m&#233;ng</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6aac.gif" />
+<audio src="resources/audio/6aac.wav" />
+</url>
+</word>
+</dictionary>

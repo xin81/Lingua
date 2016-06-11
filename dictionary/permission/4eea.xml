@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="4eea" name="y&#237;">
+<source name="english">apparatus , rites , appearance , present , ceremony</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>y&#237;</pronunciation>
+<characters style="simplified">仪</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>y&#237;</pronunciation>
+<characters style="simplified">儀</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/4eea.gif" />
+<audio src="resources/audio/4eea.wav" />
+</url>
+</word>
+</dictionary>

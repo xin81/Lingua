@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="8f7d" name="z&#462;i">
+<source name="english">year</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>z&#462;i</pronunciation>
+<characters style="simplified">载</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>z&#462;i</pronunciation>
+<characters style="simplified">載</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/8f7d.gif" />
+<audio src="resources/audio/8f7d.wav" />
+</url>
+</word>
+</dictionary>

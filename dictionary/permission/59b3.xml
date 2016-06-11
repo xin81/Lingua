@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="59b3" name="n&#464;">
+<source name="english">you (fem.)</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>n&#464;</pronunciation>
+<characters style="simplified">妳</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>n&#464;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/59b3.gif" />
+<audio src="resources/audio/59b3.wav" />
+</url>
+</word>
+</dictionary>

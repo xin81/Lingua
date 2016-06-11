@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6237" name="h&#249;">
+<source name="english">a household , door , family</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>h&#249;</pronunciation>
+<characters style="simplified">户</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>h&#249;</pronunciation>
+<characters style="simplified">戶</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6237.gif" />
+<audio src="resources/audio/6237.wav" />
+</url>
+</word>
+</dictionary>

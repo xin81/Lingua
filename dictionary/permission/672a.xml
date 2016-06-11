@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="672a" name="w&#232;i">
+<source name="english">1-3 p.m. , 8th earthly branch , not yet , did not , have not , not</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>w&#232;i</pronunciation>
+<characters style="simplified">未</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>w&#232;i</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/672a.gif" />
+<audio src="resources/audio/672a.wav" />
+</url>
+</word>
+</dictionary>

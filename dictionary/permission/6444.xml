@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6444" name="sh&#232;">
+<source name="english">assist , collect , absorb</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>sh&#232;</pronunciation>
+<characters style="simplified">摄</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>sh&#232;</pronunciation>
+<characters style="simplified">攝</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6444.gif" />
+<audio src="resources/audio/6444.wav" />
+</url>
+</word>
+</dictionary>

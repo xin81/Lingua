@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="7bab" name="xi&#257;o">
+<source name="english">(flute) , pan pipes , xiao - a vertical bamboo flute</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>xi&#257;o</pronunciation>
+<characters style="simplified">箫</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>xi&#257;o</pronunciation>
+<characters style="simplified">簫</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/7bab.gif" />
+<audio src="resources/audio/7bab.wav" />
+</url>
+</word>
+</dictionary>

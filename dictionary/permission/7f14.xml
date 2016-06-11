@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="7f14" name="d&#236;">
+<source name="english">closely joined , connection , knot</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>d&#236;</pronunciation>
+<characters style="simplified">缔</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>d&#236;</pronunciation>
+<characters style="simplified">締</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/7f14.gif" />
+<audio src="resources/audio/7f14.wav" />
+</url>
+</word>
+</dictionary>

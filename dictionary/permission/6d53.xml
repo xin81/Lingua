@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6d53" name="n&#243;ng">
+<source name="english">concentrated , dense</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>n&#243;ng</pronunciation>
+<characters style="simplified">浓</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>n&#243;ng</pronunciation>
+<characters style="simplified">濃</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6d53.gif" />
+<audio src="resources/audio/6d53.wav" />
+</url>
+</word>
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="978b" name="xi&#233;">
+<source name="english">shoe</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>xi&#233;</pronunciation>
+<characters style="simplified">鞋</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>xi&#233;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/978b.gif" />
+<audio src="resources/audio/978b.wav" />
+</url>
+</word>
+</dictionary>

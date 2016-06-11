@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="7ecf" name="j&#299;ng">
+<source name="english">classics , sacred book , pass through , to undergo , scripture</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>j&#299;ng</pronunciation>
+<characters style="simplified">经</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>j&#299;ng</pronunciation>
+<characters style="simplified">經</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/7ecf.gif" />
+<audio src="resources/audio/7ecf.wav" />
+</url>
+</word>
+</dictionary>

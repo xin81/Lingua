@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="91c7" name="c&#462;i">
+<source name="english">to pick , to pluck , to collect , to select , to choose , to gather</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>c&#462;i</pronunciation>
+<characters style="simplified">采</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>c&#462;i</pronunciation>
+<characters style="simplified">採</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/91c7.gif" />
+<audio src="resources/audio/91c7.wav" />
+</url>
+</word>
+</dictionary>

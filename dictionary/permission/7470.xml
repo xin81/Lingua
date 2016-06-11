@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="7470" name="gu&#299;">
+<source name="english">(semi-precious stone) , extraordinary</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>gu&#299;</pronunciation>
+<characters style="simplified">瑰</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>gu&#299;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/7470.gif" />
+<audio src="resources/audio/7470.wav" />
+</url>
+</word>
+</dictionary>

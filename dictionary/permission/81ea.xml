@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="81ea" name="zi4"><!--name="z&#236;" -->
+<source name="english">from , self , oneself , since</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>z&#236;</pronunciation>
+<characters style="simplified">自</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>z&#236;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/81ea.gif" />
+<audio src="resources/audio/81ea.wav" />
+</url>
+</word>
+</dictionary>

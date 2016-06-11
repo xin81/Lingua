@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="86f0" name="zh&#233;">
+<source name="english">hibernate</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>zh&#233;</pronunciation>
+<characters style="simplified">蛰</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>zh&#233;</pronunciation>
+<characters style="simplified">蟄</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/86f0.gif" />
+<audio src="resources/audio/86f0.wav" />
+</url>
+</word>
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6d9f" name="li&#225;n">
+<source name="english">ripple , tearful</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>li&#225;n</pronunciation>
+<characters style="simplified">涟</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>li&#225;n</pronunciation>
+<characters style="simplified">漣</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6d9f.gif" />
+<audio src="resources/audio/6d9f.wav" />
+</url>
+</word>
+</dictionary>

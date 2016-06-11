@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="54e9" name="l&#299;">
+<source name="english">(onomat.)</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>l&#299;</pronunciation>
+<characters style="simplified">哩</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>l&#299;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/54e9.gif" />
+<audio src="resources/audio/54e9.wav" />
+</url>
+</word>
+</dictionary>

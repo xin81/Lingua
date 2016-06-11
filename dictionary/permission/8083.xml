@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="8083" name="s&#249;">
+<source name="english">Gansu , respectful</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>s&#249;</pronunciation>
+<characters style="simplified">肃</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>s&#249;</pronunciation>
+<characters style="simplified">肅</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/8083.gif" />
+<audio src="resources/audio/8083.wav" />
+</url>
+</word>
+</dictionary>

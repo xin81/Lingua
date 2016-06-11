@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="756a" name="f&#257;n">
+<source name="english">(measure word for acts) , deeds , foreign</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>f&#257;n</pronunciation>
+<characters style="simplified">番</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>f&#257;n</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/756a.gif" />
+<audio src="resources/audio/756a.wav" />
+</url>
+</word>
+</dictionary>

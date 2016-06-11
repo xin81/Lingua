@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6bd9" name="b&#236;">
+<source name="english">die violently</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>b&#236;</pronunciation>
+<characters style="simplified">毙</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>b&#236;</pronunciation>
+<characters style="simplified">斃</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6bd9.gif" />
+<audio src="resources/audio/6bd9.wav" />
+</url>
+</word>
+</dictionary>

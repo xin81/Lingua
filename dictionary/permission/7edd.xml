@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="7edd" name="ju&#233;">
+<source name="english">cut short , extinct , to disappear , to vanish , absolutely , by no means</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>ju&#233;</pronunciation>
+<characters style="simplified">绝</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>ju&#233;</pronunciation>
+<characters style="simplified">絕</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/7edd.gif" />
+<audio src="resources/audio/7edd.wav" />
+</url>
+</word>
+</dictionary>

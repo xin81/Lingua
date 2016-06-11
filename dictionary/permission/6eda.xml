@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6eda" name="g&#468;n">
+<source name="english">to boil , to roll</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>g&#468;n</pronunciation>
+<characters style="simplified">滚</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>g&#468;n</pronunciation>
+<characters style="simplified">滾</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6eda.gif" />
+<audio src="resources/audio/6eda.wav" />
+</url>
+</word>
+</dictionary>

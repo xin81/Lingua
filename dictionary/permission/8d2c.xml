@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="8d2c" name="bi&#462;n">
+<source name="english">to diminish , to demote , reduce or devaluate , disparage , censure , depreciate</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>bi&#462;n</pronunciation>
+<characters style="simplified">贬</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>bi&#462;n</pronunciation>
+<characters style="simplified">貶</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/8d2c.gif" />
+<audio src="resources/audio/8d2c.wav" />
+</url>
+</word>
+</dictionary>

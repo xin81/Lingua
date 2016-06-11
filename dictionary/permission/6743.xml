@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="6743" name="qu&#225;n">
+<source name="english">authority , power , right</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>qu&#225;n</pronunciation>
+<characters style="simplified">权</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>qu&#225;n</pronunciation>
+<characters style="simplified">權</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/6743.gif" />
+<audio src="resources/audio/6743.wav" />
+</url>
+</word>
+</dictionary>

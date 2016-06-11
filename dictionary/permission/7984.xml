@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="7984" name="l&#249;">
+<source name="english">good fortune , official salary</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>l&#249;</pronunciation>
+<characters style="simplified">禄</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>l&#249;</pronunciation>
+<characters style="simplified">祿</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/7984.gif" />
+<audio src="resources/audio/7984.wav" />
+</url>
+</word>
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="67dc" name="gu&#236;">
+<source name="english">cupboard , cabinet , wardrobe</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>gu&#236;</pronunciation>
+<characters style="simplified">柜</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>gu&#236;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/67dc.gif" />
+<audio src="resources/audio/67dc.wav" />
+</url>
+</word>
+</dictionary>

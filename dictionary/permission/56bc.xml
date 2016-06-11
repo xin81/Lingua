@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="56bc" name="ji&#225;o">
+<source name="english">to chew</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>ji&#225;o</pronunciation>
+<characters style="simplified">嚼</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>ji&#225;o</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/56bc.gif" />
+<audio src="resources/audio/56bc.wav" />
+</url>
+</word>
+</dictionary>

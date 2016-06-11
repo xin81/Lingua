@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="715e" name="sh&#257;">
+<source name="english">decrease , tighten</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>sh&#257;</pronunciation>
+<characters style="simplified">煞</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>sh&#257;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/715e.gif" />
+<audio src="resources/audio/715e.wav" />
+</url>
+</word>
+</dictionary>

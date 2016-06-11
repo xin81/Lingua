@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="4e5d" name="ji&#468;">
+<source name="english">nine , 9</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>ji&#468;</pronunciation>
+<characters style="simplified">九</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>ji&#468;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/4e5d.gif" />
+<audio src="resources/audio/4e5d.wav" />
+</url>
+</word>
+</dictionary>

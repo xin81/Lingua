@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="76d6" name="g&#224;i">
+<source name="english">lid , top , cover , canopy , to build</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>g&#224;i</pronunciation>
+<characters style="simplified">盖</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>g&#224;i</pronunciation>
+<characters style="simplified">蓋</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/76d6.gif" />
+<audio src="resources/audio/76d6.wav" />
+</url>
+</word>
+</dictionary>

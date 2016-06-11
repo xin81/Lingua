@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="725f" name="m&#243;u">
+<source name="english">barley , to moo , usurp</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>m&#243;u</pronunciation>
+<characters style="simplified">牟</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>m&#243;u</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/725f.gif" />
+<audio src="resources/audio/725f.wav" />
+</url>
+</word>
+</dictionary>

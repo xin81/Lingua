@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="767d" name="b&#225;i">
+<source name="english">white , snowy , empty , blank , bright , clear , plain , pure , gratuitous</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>b&#225;i</pronunciation>
+<characters style="simplified">白</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>b&#225;i</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/767d.gif" />
+<audio src="resources/audio/767d.wav" />
+</url>
+</word>
+</dictionary>

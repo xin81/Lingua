@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5858" name="t&#225;ng">
+<source name="english">pond</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>t&#225;ng</pronunciation>
+<characters style="simplified">塘</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>t&#225;ng</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5858.gif" />
+<audio src="resources/audio/5858.wav" />
+</url>
+</word>
+</dictionary>

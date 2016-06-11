@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="718a" name="xi&#243;ng">
+<source name="english">bear , to scold , to rebuke</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>xi&#243;ng</pronunciation>
+<characters style="simplified">熊</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>xi&#243;ng</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/718a.gif" />
+<audio src="resources/audio/718a.wav" />
+</url>
+</word>
+</dictionary>

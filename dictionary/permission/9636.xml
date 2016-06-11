@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="9636" name="ji&#275;">
+<source name="english">rank or step , stairs</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>ji&#275;</pronunciation>
+<characters style="simplified">阶</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>ji&#275;</pronunciation>
+<characters style="simplified">階</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/9636.gif" />
+<audio src="resources/audio/9636.wav" />
+</url>
+</word>
+</dictionary>

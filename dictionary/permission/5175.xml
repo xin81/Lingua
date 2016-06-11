@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="5175" name="b&#299;ng">
+<source name="english">soldiers , a force , an army , weapons , arms , military , warlike</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>b&#299;ng</pronunciation>
+<characters style="simplified">兵</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>b&#299;ng</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/5175.gif" />
+<audio src="resources/audio/5175.wav" />
+</url>
+</word>
+</dictionary>

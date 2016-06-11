@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="91ce" name="y&#283;">
+<source name="english">field , plain , open space , limit , boundary , rude , wild</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>y&#283;</pronunciation>
+<characters style="simplified">野</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>y&#283;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/91ce.gif" />
+<audio src="resources/audio/91ce.wav" />
+</url>
+</word>
+</dictionary>

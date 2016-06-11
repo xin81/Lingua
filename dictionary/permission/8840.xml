@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="english_chinese.xsd">
+
+<word id="8840" name="xi&#283;">
+<source name="english">blood</source>
+<target name="chinese">
+<dialect name="mandarin">
+<pronunciation>xi&#283;</pronunciation>
+<characters style="simplified">血</characters>
+</dialect>
+
+<!-- <dialect name="cantonese">
+<pronunciation>xi&#283;</pronunciation>
+<characters style="simplified">same</characters>
+</dialect> -->
+
+</target>
+<url>
+<gif src="resources/img/8840.gif" />
+<audio src="resources/audio/8840.wav" />
+</url>
+</word>
+</dictionary>
